@@ -1,4 +1,4 @@
 # HelloGithub
- Say hello
- Hello Github!
- Let`s get the code.
+- Say hello
+- Hello Github!
+- Let`s get the code.
